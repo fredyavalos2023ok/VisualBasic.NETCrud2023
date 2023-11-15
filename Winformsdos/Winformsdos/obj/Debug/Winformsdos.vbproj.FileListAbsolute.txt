@@ -1,0 +1,12 @@
+D:\2023\Proyectos WINDOWS FORMS\Interfaz Windows Forms\winformsdoss\Winformsdos\Winformsdos\obj\Debug\Winformsdos.vbproj.AssemblyReference.cache
+D:\2023\Proyectos WINDOWS FORMS\Interfaz Windows Forms\winformsdoss\Winformsdos\Winformsdos\obj\Debug\Winformsdos.Resources.resources
+D:\2023\Proyectos WINDOWS FORMS\Interfaz Windows Forms\winformsdoss\Winformsdos\Winformsdos\obj\Debug\Winformsdos.vbproj.GenerateResource.cache
+D:\2023\Proyectos WINDOWS FORMS\Interfaz Windows Forms\winformsdoss\Winformsdos\Winformsdos\obj\Debug\Winformsdos.vbproj.CoreCompileInputs.cache
+D:\2023\Proyectos WINDOWS FORMS\Interfaz Windows Forms\winformsdoss\Winformsdos\Winformsdos\bin\Debug\Winformsdos.exe.config
+D:\2023\Proyectos WINDOWS FORMS\Interfaz Windows Forms\winformsdoss\Winformsdos\Winformsdos\bin\Debug\Winformsdos.exe
+D:\2023\Proyectos WINDOWS FORMS\Interfaz Windows Forms\winformsdoss\Winformsdos\Winformsdos\bin\Debug\Winformsdos.pdb
+D:\2023\Proyectos WINDOWS FORMS\Interfaz Windows Forms\winformsdoss\Winformsdos\Winformsdos\bin\Debug\Winformsdos.xml
+D:\2023\Proyectos WINDOWS FORMS\Interfaz Windows Forms\winformsdoss\Winformsdos\Winformsdos\obj\Debug\Winformsdos.exe
+D:\2023\Proyectos WINDOWS FORMS\Interfaz Windows Forms\winformsdoss\Winformsdos\Winformsdos\obj\Debug\Winformsdos.xml
+D:\2023\Proyectos WINDOWS FORMS\Interfaz Windows Forms\winformsdoss\Winformsdos\Winformsdos\obj\Debug\Winformsdos.pdb
+D:\2023\Proyectos WINDOWS FORMS\Interfaz Windows Forms\winformsdoss\Winformsdos\Winformsdos\obj\Debug\Winformsdos.frmLectores.resources
